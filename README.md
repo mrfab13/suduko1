@@ -1,2 +1,2 @@
-# suduko1
+# swift sudoku
 soduku program made in swift
